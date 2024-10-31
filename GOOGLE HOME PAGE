@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/gpng.png">
+    <link rel="stylesheet" type="text/css" href="google.css">
+    <title>Google</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navdiv">
+        <ul>
+            <li ><a href="https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header" id="part1">About</a></li>
+            <li ><a href="https://store.google.com/IN/?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-GB&pli=1" id="part1">Store</a></li>
+            <li><a href="https://mail.google.com/mail/u/0/?ogbl#inbox" id="part2">Gmail</a></li>
+            <li><a href="https://www.google.co.in/imghp?hl=en&authuser=0&ogbl" id="part3">Images</a></li>
+       
+            <a href="https://labs.google.com/search?source=hp&authuser=0"><img src="img/test-tube-icon.png" id="part4"></a>
+            <a href="https://meet.google.com/landing?hs=197&authuser=0"><img src="img/all icon.png" id="part5"></a>
+        </ul> 
+        
+        </div>
+
+    </nav>
+    <center>
+   <img src="img/googlelogo_color_272x92dp.png" id="goo"></center>
+   <center><input type="text" placeholder="Enter your url or something"> 
+   <a href="#"><img src="img/icons8-search-64.png" width="40px" id="sear"></a>
+        <a href="https://www.google.co.in/"><img src="img/gmic.png" width="45px" id="sear"></a>
+        <a href="https://lens.google/"><img src="img/glens.png" width="45px" id="sear"></a>
+   </input></center>
+   <br>
+   <div class="content">
+   <center><a>Google offered in  :</a>
+<a href="https://www.google.co.in/" id="rus">हिन्दी</a>
+<a href="https://www.google.co.in/" id="rus">தமிழ்</a>
+<a  href="https://www.google.co.in/" id="rus">മലയാളം</a>
+</center>
+</div>
+</body>
+</html>
